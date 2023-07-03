@@ -1,0 +1,19 @@
+.post-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table-header {
+    text-align: left;
+    padding: 10px;
+    background-color: #f2f2f2;
+  }
+  
+  .post-row {
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .post-row:last-child {
+    border-bottom: none;
+  }
+  
